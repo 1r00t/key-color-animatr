@@ -10,6 +10,9 @@ It creates a .eft file to import in your Logitech Gaming Software.
 python animatr.py path/to/image.jpg 10
 ```
 
+Here are some example outputs:
+[key-color-animatr/tree/master/eft](https://github.com/1r00t/key-color-animatr/tree/master/eft)
+
 * TODO:
     * work on argument parsing
     * add more keyboard layouts
