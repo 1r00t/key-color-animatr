@@ -1,7 +1,8 @@
 # key-color-animatr
 A Python script to animate Logitech keyboard LEDs using an input image.
-
-It creates a .eft file to import in your Logitech Gaming Software.
+It maps an image onto the keyboard where each key is a pixel from the image.
+Then it walks down the image and creates animation frames.
+Output is a .eft file to import in your Logitech Gaming Software.
 
 ***Only works for the G810 with German keyboard layout at the moment!***
 
